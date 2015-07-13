@@ -1,5 +1,5 @@
 {
-    "name": "adldap/adldap",
+    "name": "glouker/adldap",
     "type": "library",
     "description": "adLDAP, low-level library to query Active directory",
     "keywords": ["active directory","ldap","windows"],
